@@ -38,6 +38,8 @@
 
 ---
 
+[![An image of @harishb2006's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harishb2006)](https://holopin.io/@harishb2006)
+
 ## 📈 GitHub Stats
 
 ![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishb2006&theme=tokyonight&show_icons=true&hide_border=false)<br/>
